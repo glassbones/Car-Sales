@@ -1,5 +1,7 @@
 import React from 'react';
 
+//is it worth it to have components this small?
+
 const Total = props => {
   return (
     <div className="content">
